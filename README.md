@@ -5,7 +5,7 @@
 
 ### 👋 Hey, I'm **Krushant Pachauri**
 
-**18-year-old Developer** • **Engineering Student** • **AI/ML Enthusiast**
+**18-year-old Developer** • **Class 12 CBSE Student** • **AI/ML Enthusiast**
 
 *Specializing in React, Python, AI/ML & Building Intelligent Systems*
 
@@ -25,7 +25,8 @@
 ```typescript
 const krushant: Developer = {
     location: "Mathura, India 🇮🇳",
-    education: "Pursuing B.Tech in Computer Science | JEE 2026 Aspirant",
+    education: "Class 12 CBSE | Aspiring B.Tech CS Student",
+    examPrep: "JEE Mains 2026 | Balancing competitive exams with coding",
     currentFocus: [
         "Deep diving into AI/ML and LLM integration",
         "Building NLP-powered applications with Python",
@@ -200,7 +201,7 @@ const krushant: Developer = {
 + 💻 5+ Full-stack projects with AI integration
 + 🧑‍💻 Contributing to open source since 2024
 + 📚 Solved 50+ DSA problems & learning ML algorithms
-+ 🚀 Balancing JEE prep with real-world coding
++ 🎯 Balancing JEE 2026 prep with real-world coding
 ```
 
 ---
@@ -227,13 +228,14 @@ const krushant: Developer = {
 - 🔄 Learn deep learning fundamentals
 - 🔄 Contribute to AI/ML open source projects
 - 📝 Document ML learning journey
+- 🎓 Excel in JEE Mains 2026
 
 </td>
 <td width="50%">
 
 ### 🚀 Long-term Vision
 - 🤖 Become proficient in AI/ML engineering
-- 🎓 Excel in B.Tech Computer Science
+- 🎓 Pursue B.Tech in Computer Science
 - 💼 Land AI/ML internship at tech companies
 - 🌟 Build impactful AI-powered products
 - 📈 Contribute to cutting-edge AI research
