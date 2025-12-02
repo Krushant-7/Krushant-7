@@ -1,52 +1,118 @@
-# Hi there, I'm Krushant-7! 👋
+<div align="center">
 
-Welcome to my GitHub profile! I'm passionate about coding, learning, and building innovative solutions. Here's a little more about me:
+# 👋 Hey, I'm Krushant Pachauri
 
----
+### 18 y/o Developer | AI Enthusiast | Future Engineer
 
-## 🌟 About Me
+*Building my own J.A.R.V.I.S. – because why not? 🤖*
 
-- 🌱 **Currently Learning:** Exploring new technologies and deepening my knowledge in full-stack development.
-- 💡 **Interests:** Software development, open-source contributions, and solving challenging problems.
-- 💻 **Skills:** 
-  - Programming Languages: Python, JavaScript, Java
-  - Frameworks: React, Node.js, Express
-  - Tools: Git, Docker, Kubernetes
-- 🎯 **Goals:** 
-  - Contribute to impactful open-source projects.
-  - Build scalable and efficient applications.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ig_krushant)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krushant-pachauri)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Krushant2007)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krushantpachouri77@gmail.com)
+
+</div>
 
 ---
 
-## 🌐 Connect with Me
+## 🚀 About Me
 
-- 📫 **Email:** [your-email@example.com](krushantpachouri77@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/krushant-pachauri/)
+```javascript
+const krushant = {
+    location: "Mathura, India 🇮🇳",
+    currentFocus: "Building J.A.R.V.I.S.-inspired AI Assistant",
+    education: "Preparing for B.Tech (JEE 2025)",
+    passion: ["AI/ML", "Full-Stack Development", "Gaming Tech"],
+    currentlyLearning: ["Advanced Web Dev", "Machine Learning", "System Design"],
+    funFact: "I balance coding with JEE prep – multitasking level: pro 😎"
+};
+```
+
+## 💻 Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=white)
+
+**Interests**  
+![AI/ML](https://img.shields.io/badge/AI%2FML-00979D?style=for-the-badge)
+![Web Dev](https://img.shields.io/badge/Web%20Dev-4285F4?style=for-the-badge)
+![Gaming](https://img.shields.io/badge/Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white)
+![PC Building](https://img.shields.io/badge/PC%20Building-00AEFF?style=for-the-badge)
 
 ---
 
-## 🛠️ My Projects
+## 🎯 Current Mission
 
-Here are some of the projects I've been working on:
-
-- 🚀 **Project A:** A web application designed to simplify task management and improve productivity. It leverages React for a dynamic user interface and Node.js for backend support.
-- 🌟 **Project B:** A machine learning model that predicts real estate prices based on various features. This project was built using Python and libraries like scikit-learn and pandas.
-- 🧩 **Project C:** A collaborative coding platform that allows developers to work on shared codebases in real-time. It includes features such as syntax highlighting, live chat, and file versioning.
-
----
-
-## 📊 GitHub Stats
-
-![Krushant-7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krushant-7&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krushant-7&layout=compact&theme=radical)
+🔨 **Building J.A.R.V.I.S.** – An AI assistant project inspired by Iron Man's iconic AI  
+📚 **JEE Preparation** – Grinding chemistry, physics, and math for engineering entrance  
+💡 **Full-Stack Journey** – Mastering both frontend and backend development  
+🎮 **Tech Enthusiast** – Researching gaming PCs, laptops, and cutting-edge hardware
 
 ---
 
-## 🤝 Contributions and Collaboration
+## 📊 GitHub Analytics
 
-I love collaborating with other developers! Feel free to reach out if you want to work together on something exciting. Let's build amazing things! ✨
+<div align="center">
+
+![Krushant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krushant-7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krushant-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Krushant-7&theme=tokyonight&hide_border=true&background=0D1117)
+
+</div>
 
 ---
 
-Thanks for stopping by! 😄
+## 🌟 Featured Projects
+
+> *More projects coming soon as I build and learn! Stay tuned.* 🚀
+
+---
+
+## 💭 Philosophy
+
+```python
+while alive:
+    learn()
+    code()
+    create()
+    repeat()
+```
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to collaborating on interesting projects, discussing tech, or just connecting with fellow developers!
+
+- 💬 Ask me about **AI, web development, gaming tech, or JEE prep hacks**
+- 📫 Reach out: **krushantpachouri77@gmail.com**
+- ⚡ Fun fact: **I can explain thermodynamics and React hooks in the same breath**
+
+---
+
+<div align="center">
+
+### 🌟 "Code is poetry written in logic" 🌟
+
+![Profile Views](https://komarev.com/ghpvc/?username=Krushant-7&color=blueviolet&style=for-the-badge)
+
+**Thanks for stopping by! Let's build something amazing together** ✨
+
+</div>
