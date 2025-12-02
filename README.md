@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Dynamic Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F8FFF&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Building+Production-Grade+Systems;Turning+Ideas+Into+Scalable+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3F8FFF&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=Full-Stack+Developer+%7C+AI%2FML+Engineer;Diving+Deep+Into+Machine+Learning;Building+Production-Grade+AI+Systems" alt="Typing SVG" />
 
 ### 👋 Hey, I'm **Krushant Pachauri**
 
-**18-year-old Developer** • **Engineering Student** • **Open Source Contributor**
+**18-year-old Developer** • **Engineering Student** • **AI/ML Enthusiast**
 
-*Specializing in React, Node.js, Python & AI/ML Integration*
+*Specializing in React, Python, AI/ML & Building Intelligent Systems*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://github.com/Krushant-7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krushant-pachauri)
@@ -24,18 +24,24 @@
 
 ```typescript
 const krushant: Developer = {
-    location: "Meerut, India 🇮🇳",
-    education: "Pursuing B.Tech in Computer Science",
+    location: "Mathura, India 🇮🇳",
+    education: "Pursuing B.Tech in Computer Science | JEE 2026 Aspirant",
     currentFocus: [
-        "Building AI-powered web applications",
-        "Full-stack development with modern frameworks",
-        "Contributing to open source projects"
+        "Deep diving into AI/ML and LLM integration",
+        "Building NLP-powered applications with Python",
+        "Full-stack development with React & Node.js"
     ],
-    workingOn: "AI Resume Analyzer | Real-time Collaborative Tools",
-    learning: ["Machine Learning", "System Design", "DevOps", "LLM Integration"],
-    availableFor: "Internships | Freelance Projects | Open Source Collaboration",
-    hobbies: ["Competitive Programming", "Tech Blogging", "Gaming PC Building"],
-    motto: "Ship fast, iterate faster, learn constantly."
+    workingOn: "AI Resume Analyzer with spaCy & TensorFlow",
+    deepDiveTopics: [
+        "Natural Language Processing (NLP)",
+        "Machine Learning Algorithms", 
+        "Large Language Models (LLMs)",
+        "Computer Vision",
+        "Neural Networks & Deep Learning"
+    ],
+    availableFor: "Internships | AI/ML Projects | Open Source Collaboration",
+    hobbies: ["AI Research", "Competitive Programming", "Tech Blogging", "Gaming PC Building"],
+    motto: "Build AI that matters, ship fast, learn constantly."
 };
 ```
 
@@ -57,7 +63,7 @@ const krushant: Developer = {
 🔹 spaCy NER for information extraction  
 🔹 TF-IDF matching with job descriptions  
 🔹 ATS compatibility scoring  
-🔹 Live demo with REST API
+🔹 ML-based skill gap analysis
 
 [🔗 Live Demo](#) • [📂 Repository](#)
 
@@ -84,6 +90,23 @@ const krushant: Developer = {
 <tr>
 <td width="50%">
 
+### 🧠 ML Model Playground
+**Interactive ML Algorithms Visualizer**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+🔹 Visualize ML algorithm workflows  
+🔹 Interactive parameter tuning  
+🔹 Real-time model comparison  
+🔹 Educational AI/ML tool
+
+[🔗 Live Demo](#) • [📂 Repository](#)
+
+</td>
+<td width="50%">
+
 ### ⚡ Real-Time Code Collab
 **Collaborative Online IDE**
 
@@ -99,27 +122,10 @@ const krushant: Developer = {
 [🔗 Live Demo](#) • [📂 Repository](#)
 
 </td>
-<td width="50%">
-
-### 📊 Developer Analytics API
-**Personal Data Aggregation Service**
-
-![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-🔹 RESTful API with JWT auth  
-🔹 GitHub activity aggregation  
-🔹 Rate limiting & caching  
-🔹 Swagger documentation
-
-[🔗 API Docs](#) • [📂 Repository](#)
-
-</td>
 </tr>
 </table>
 
-> 🚧 **More projects coming soon!** Currently building AI-powered tools and full-stack applications.
+> 🚧 **More AI/ML projects coming soon!** Currently building intelligent systems and exploring deep learning.
 
 ---
 
@@ -131,6 +137,15 @@ const krushant: Developer = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### **AI/ML & Data Science** 🧠
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### **Frontend Development**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -149,12 +164,6 @@ const krushant: Developer = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### **AI/ML & Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### **DevOps & Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -186,21 +195,22 @@ const krushant: Developer = {
 ## 🏆 Achievements & Highlights
 
 ```diff
-+ 🎯 100+ Commits this year and counting
-+ 💻 5+ Production-ready full-stack projects
-+ 🤝 Contributing to open source since 2024
-+ 📚 Solved 50+ Data Structures & Algorithms problems
-+ 🚀 Deployed projects serving real users
-+ 🎓 Continuously learning and building
++ 🤖 Deep diving into Machine Learning & AI development
++ 🐍 Building production Python ML applications
++ 💻 5+ Full-stack projects with AI integration
++ 🧑‍💻 Contributing to open source since 2024
++ 📚 Solved 50+ DSA problems & learning ML algorithms
++ 🚀 Balancing JEE prep with real-world coding
 ```
 
 ---
 
-## 📝 Latest Blog Posts
+## 📝 Latest Blog Posts & Learning
 
 <!-- BLOG-POST-LIST:START -->
-- 🚀 Coming soon: Technical articles on web development and AI/ML
-- 📖 Follow me on [Dev.to](https://dev.to) • [Medium](https://medium.com) • [Hashnode](https://hashnode.com)
+- 🤖 Coming soon: Deep dives into NLP, ML algorithms, and AI projects
+- 📚 Currently learning: Neural Networks, Computer Vision, LLM fine-tuning
+- 📖 Follow my journey on [Dev.to](https://dev.to) • [Medium](https://medium.com) • [Hashnode](https://hashnode.com)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -212,21 +222,21 @@ const krushant: Developer = {
 <td width="50%">
 
 ### 🎯 Short-term Goals
-- ✅ Build AI Resume Analyzer
-- 🔄 Master system design patterns
-- 🔄 Contribute to 10+ open source repos
-- 📝 Write technical blog posts
-- 🚀 Launch 3 production SaaS projects
+- ✅ Master Python for AI/ML development
+- 🔄 Build AI Resume Analyzer with NLP
+- 🔄 Learn deep learning fundamentals
+- 🔄 Contribute to AI/ML open source projects
+- 📝 Document ML learning journey
 
 </td>
 <td width="50%">
 
 ### 🚀 Long-term Vision
+- 🤖 Become proficient in AI/ML engineering
 - 🎓 Excel in B.Tech Computer Science
-- 💼 Land software engineering internship
-- 🌟 Build impactful AI-powered tools
-- 🤝 Contribute to major open source projects
-- 📈 Grow as a full-stack engineer
+- 💼 Land AI/ML internship at tech companies
+- 🌟 Build impactful AI-powered products
+- 📈 Contribute to cutting-edge AI research
 
 </td>
 </tr>
@@ -238,10 +248,10 @@ const krushant: Developer = {
 
 <div align="center">
 
-I'm always excited to collaborate on interesting projects, discuss tech, or just connect with fellow developers!
+I'm always excited to collaborate on AI/ML projects, discuss tech, or connect with fellow developers!
 
 ### 💬 **Ask me about:**
-Web Development • AI/ML Integration • Full-Stack Architecture • Open Source • JEE Prep Hacks
+AI/ML • NLP & LLMs • Python Development • Full-Stack Web Dev • Open Source • JEE Prep Tips
 
 ### 📫 **Reach me at:**
 [![Email](https://img.shields.io/badge/krushantpachouri77@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krushantpachouri77@gmail.com)
@@ -249,7 +259,7 @@ Web Development • AI/ML Integration • Full-Stack Architecture • Open Sourc
 [![Twitter](https://img.shields.io/badge/@Krushant2007-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Krushant2007)
 
 ### ⚡ **Fun Fact:**
-I can debug React components and solve thermodynamics problems in the same sitting! 🎓💻
+I can train neural networks and solve JEE physics problems in the same session! 🤖🎓
 
 </div>
 
@@ -257,11 +267,11 @@ I can debug React components and solve thermodynamics problems in the same sitti
 
 <div align="center">
 
-### 🌟 *"Code is poetry written in logic"* 🌟
+### 🌟 *"Building AI that makes a difference, one model at a time"* 🌟
 
 ![Snake animation](https://raw.githubusercontent.com/Krushant-7/Krushant-7/output/github-contribution-grid-snake-dark.svg)
 
-**💙 Thanks for visiting! Let's build something amazing together ✨**
+**💙 Thanks for visiting! Let's build intelligent systems together ✨**
 
 </div>
 
