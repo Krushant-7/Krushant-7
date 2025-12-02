@@ -179,15 +179,11 @@ const krushant: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Krushant-7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8FFF&icon_color=3F8FFF&text_color=C9D1D9&ring_color=3F8FFF" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krushant-7&theme=tokyonight&hide_border=true&background=0D1117&ring=3F8FFF&fire=FF6B6B&currStreakLabel=3F8FFF" width="49%" alt="GitHub Streak" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krushant-7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8FFF&icon_color=3F8FFF&text_color=C9D1D9&count_private=true&include_all_commits=true)
 
-</div>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Krushant-7&theme=tokyonight&hide_border=true&background=0D1117&ring=3F8FFF&fire=FF6B6B&currStreakLabel=3F8FFF)
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krushant-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8FFF&text_color=C9D1D9&langs_count=8&hide=html,css" width="49%" alt="Top Languages" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krushant-7&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3F8FFF&line=3F8FFF&point=C9D1D9" width="49%" alt="Contribution Graph" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krushant-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8FFF&text_color=C9D1D9&langs_count=8&hide=html,css&include_all_commits=true)
 
 </div>
 
@@ -271,7 +267,7 @@ I can train neural networks and solve JEE physics problems in the same session! 
 
 ### 🌟 *"Building AI that makes a difference, one model at a time"* 🌟
 
-![Snake animation](https://raw.githubusercontent.com/Krushant-7/Krushant-7/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://raw.githubusercontent.com/Krushant-7/Krushant-7/output/github-contribution-grid-snake-dark.svg)
 
 **💙 Thanks for visiting! Let's build intelligent systems together ✨**
 
