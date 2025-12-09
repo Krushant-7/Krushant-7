@@ -180,10 +180,15 @@ const krushant: Developer = {
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krushant-7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8FFF&icon_color=3F8FFF&text_color=C9D1D9&count_private=true&include_all_commits=true)
-
+<br>
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Krushant-7&theme=tokyonight&hide_border=true&background=0D1117&ring=3F8FFF&fire=FF6B6B&currStreakLabel=3F8FFF)
+<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krushant-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8FFF&text_color=C9D1D9&langs_count=8&hide=html,css&include_all_commits=true)
+
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krushant-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F8FFF&text_color=C9D1D9&langs_count=8&hide=html,css&include_all_commits=true)
+<br>
 
 </div>
 
