@@ -21,7 +21,7 @@
 
 ```typescript
 const krushant: Developer = {
-    location:     "Mathura, India 🇮🇳",
+    location:     "New delhi, India 🇮🇳",
     currentFocus: ["Full-Stack Web Development", "AI & Automation Integration"],
     learning:     ["React", "Node.js", "Python", "LLM APIs"],
     interests:    ["Building client-facing products", "AI-powered tools", "Clean UI/UX"],
